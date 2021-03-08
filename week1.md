@@ -1,5 +1,3 @@
-# Portfolio
-
 #### Week 1
 
 ### Goals
@@ -13,7 +11,7 @@
 4. Describe some basic OO principles like encapsulation, SRP
 
 
-### Plans to achieve:
+### Plans to achieve
 
 1. Working through Boris Bikes and TDD workshop
 
