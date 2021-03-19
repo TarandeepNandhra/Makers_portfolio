@@ -12,26 +12,26 @@
 
 5. Review another person's code and give them meaningful feedback
 
-### Plans to achieve
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
 ### Evidence
 
 1.
+- consolidated week 1's skills when setting up Oystercard challenge and testdriving classes.
 
 2.
+- Split up the Journey class from Oystercard class in Oystercard challenge and refactored tests.
 
 3.
+- Dependency injection practical
+- Used doubles and dependency injection to test Oystercard behaviour in isolation.
+- Mocking workshop, testing relationships between classes workshop practical
 
 4.
+- SOLID principles
+- Delegation
+- Forwarding and polymorphism
+- Polymorphism, inheritance and composition
+- Composition over inheritance
 
-5.
+5. 
+- Reviewed Stu's airport challenge code and gave detailed feedback.
+- Gave feedback to pair partners when working on their code.
